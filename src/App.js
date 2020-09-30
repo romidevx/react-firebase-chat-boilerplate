@@ -39,7 +39,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Todo App Firebase</h1>
+      <h1>React chat Firebase</h1>
 
       <input 
         placeholder="Enter new todo.." value={todo}

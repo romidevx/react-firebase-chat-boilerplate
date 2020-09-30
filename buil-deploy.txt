@@ -1,0 +1,9 @@
+// DEPLOY FIREBASE INIT
+
+
+1 - firebase init
+reponde as perguntas
+
+2 - npm run build
+
+3 - firebase deploy
